@@ -1,0 +1,18 @@
+1. Program to check if a number is a positive, negative or zero.
+2. Check if two integers are equal or not
+3. Check if two floating point numbers are equal or not
+4. Program to check if a number is odd or even
+5. Program to Check Leap year
+6. Read the age of a candidate end determine whether he/she is eligible for casting his/her own vote.
+7. Program to accept the height of a person in centimeter and categorize the person according to therir height(tall, short or medium - assume threshold value).
+8. Program to Find the Largest Among Three Numbers
+9. Program to Find the Smallest Among Three Numbers
+10. Find teh Largest among for numbers
+11. Given three numbers, find the two numbers that are close to each other.
+12. Given three numbers, find the two numbers that are farther from each other.
+13. Program to Sort three integers.
+14. Program to check whether a triangle can be formed by the given value for the three angles.
+15. Program to accept a coordinate point in an XY coordinate system and determine in which quadrant the coordinate point lies.
+16. Given a character, find if it is a vowel or a consonant.
+17. Given the number of sides of a shape(3 side upto 10sides), return the name of that shape.
+18. Output number of days in a month given the month name. Assume 28 days in Feburary.
