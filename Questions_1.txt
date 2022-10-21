@@ -16,3 +16,11 @@
 16. Given a character, find if it is a vowel or a consonant.
 17. Given the number of sides of a shape(3 side upto 10sides), return the name of that shape.
 18. Output number of days in a month given the month name. Assume 28 days in Feburary.
+19. Print he day of week(Monday,Tuesday,.....) given the day of month(1 to 31). Assume the month starts on a Monday.
+20. Read the lengths of sides of a triangle and name the triangle.(Equilateral, iosceles and scalene).
+21. Program to convert grade point to letter grades.(A=>90,B=>80,C=>60,D=>50,F<50).
+22. What colour is that square, given the row as int(1-8) and column as char(a-h) in a chess board. Given 5,'a' the color is balck. 3,'d' the color is white.
+23. Program to calculate the roots of Quadratice Equation given a, b and c.
+24. Program to calculate profit or loss on a given transaction.
+25. Menu-Driven Program to perform a siple calculation of addition, subtraction, multiplication, division and modulo division.
+26. Write a program for Rock, Paper and Scissors Game. Just for a single round, Computer vs. User and declare the winner with proper reason.
